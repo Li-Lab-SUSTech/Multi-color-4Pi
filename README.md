@@ -21,10 +21,10 @@ The GPU fitter requires:
 The CPU version runs on macOS and Microsoft Windows 7 or newer, 64-bit
 
  # How to run
- Examples code are avalible in file **multicolour_4Pi_random_shared.m, multicolour_CRLB_3PATH.m, multicolour_CRLB_4PATH.m, multicolour_CRLB_Comparison_YD.m**. 
+ Examples code are avalible in file **dual_color_separation_for_random_NP.m, dual_color_separation_for_uniform_NP.m, three_color_separation_for_random_NP.m, three_color_separation_for_uniform_NP.m, Compare_CRLB_with_Saved_and_Ratio_4Pi.m**. 
  
 # Contact
 For any questions / comments about this software, please contact [Li Lab](https://faculty.sustech.edu.cn/liym2019/en/).
 
 # Copyright 
-Copyright (c) 2021 Li Lab, Southern University of Science and Technology, Shenzhen.
+Copyright (c) 2024 Li Lab, Southern University of Science and Technology, Shenzhen.
